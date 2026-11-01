@@ -1,0 +1,16 @@
+{
+    "type": "language_pack",
+    "name": "language-pack-ar-sa",
+    "full_code": "crm.language-pack-ar-sa",
+    "vendor": "crm",
+    "code": "ar-sa",
+    "title": "Arabic Language Pack (العربية)",
+    "native_name": "العربية",
+    "direction": "rtl",
+    "author": "Anton Barinov",
+    "version": "1.0.2",
+    "category": "localization",
+    "min_crm_version": "20260928.001",
+    "description": "TropaTT CRM Arabic localization package. Includes pack-specific supplemental web translations.",
+    "signature": "88c7b0f3e13b7d678322e0e3aa5e28efffb3d505f7f2c41b33751385bac79853"
+}
